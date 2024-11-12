@@ -8,4 +8,4 @@ int main() {
 
 // ctrl+shift+B to build.
 
-Rectangular Star Pattern
+// Rectangular Star Pattern
