@@ -4,13 +4,7 @@ Result:
   **
   ***  
   **
-  *
-*/
-
-#include <bits/stdc++.h>
-using namespace std;
-
-// void HalfDiamondStarPattern (int N) {
+  *  d HalfDiamondStarPattern (int N) {
 //     for (int row = 1; row <= N * 2 - 1; row++)
 //     {
 //         for (int smallToHigh = 1; smallToHigh <= row && row <= N ; smallToHigh++)

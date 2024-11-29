@@ -30,4 +30,4 @@ int main () {
     return 0;
 }
 
-Right-Angled Triangle Pattern
+// Right-Angled Triangle Pattern
